@@ -11,4 +11,6 @@ Now its time to talk about my projects. I actually dont have many real projects,
 
 I **love** contributing to the open source community, and thats mainly why I am here!
 
+Sometimes I will accidentally log into my test account, @stardesignstestaccount. If you see any commits from there, its because I logged into the wrong account. Still me though!
+
 Got any questions? Email me at: [lukasstardesigns@gmail.com]
