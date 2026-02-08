@@ -14,4 +14,6 @@ I **love** contributing to the open source community, and thats mainly why I am 
 
 Sometimes I will accidentally log into my test account, @stardesignstestaccount. If you see any commits from there, its because I logged into the wrong account. Still me though!
 
+(By the way, my commit chart thing whatever you want to call it is not accurate because I usually commit from my homelab account, not my github account, resulting in "Lukas" commiting, not coderLukasF)
+
 Got any questions? Email me at: [lukasstardesigns@gmail.com]
